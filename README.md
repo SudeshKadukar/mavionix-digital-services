@@ -36,7 +36,7 @@ A modern responsive company landing page created for the MaVionix Web Developmen
 
 ## Deployment
 
-Live Link:
+Live Link: http://127.0.0.1:5173
 
 GitHub Repository:
 
