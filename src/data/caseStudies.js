@@ -1,0 +1,32 @@
+export const caseStudies = [
+  {
+    client: 'GrowthMart Retail',
+    title: 'E-commerce Website Relaunch',
+    challenge: 'The client needed a faster online store with a cleaner buying journey and better mobile usability.',
+    solution: 'MaVionix redesigned the storefront, improved product discovery, and optimized checkout screens for mobile users.',
+    result: '42% faster page load and a smoother path from product view to purchase.',
+    metric: '+42%',
+    label: 'Speed gain',
+    gradient: 'from-cyan-400 via-blue-500 to-purple-500',
+  },
+  {
+    client: 'SecureOps Cloud',
+    title: 'Cybersecurity Monitoring Dashboard',
+    challenge: 'The team needed a single place to track alerts, risk levels, and incident response status.',
+    solution: 'MaVionix designed a real-time dashboard concept with clear severity labels and quick action panels.',
+    result: 'Reduced manual review time with a focused security command interface.',
+    metric: '3x',
+    label: 'Faster review',
+    gradient: 'from-blue-500 via-slate-700 to-cyan-400',
+  },
+  {
+    client: 'Assistly Support',
+    title: 'AI Chatbot Automation',
+    challenge: 'Support staff were spending too much time answering repeated customer questions.',
+    solution: 'MaVionix planned an AI assistant flow for FAQs, lead capture, and smart routing to human support.',
+    result: 'Improved response speed while keeping important conversations easy to escalate.',
+    metric: '24/7',
+    label: 'AI support',
+    gradient: 'from-fuchsia-400 via-purple-500 to-cyan-500',
+  },
+]
